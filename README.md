@@ -1,2 +1,2 @@
 # youtube-channel-scripts
-Repositório para os códigos em Python que fizemos no canal @datawhispererme.
+Repositório para os códigos que fizemos no canal @datawhispererme.
